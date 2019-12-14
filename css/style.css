@@ -1,0 +1,47 @@
+body {
+  background-color: #e3f6f5;
+}
+
+h1{
+  font-family: cursive;
+  color:#465881;
+}
+h2 {
+  font-family: cursive;
+  color: #465881;
+}
+table{
+  font-family: cursive;
+}
+p {
+  font-family: cursive;
+  color: #3f4d71;
+}
+a{
+  font-family: cursive;
+    color: #ef4339;
+}
+ul {
+  font-family: cursive;
+}
+
+fieldset {
+  font-family: cursive;
+  background-color: #bae8e8;
+  color: #3f4d71;
+}
+
+hr {
+  border-bottom-color: #8bbabb;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: dotted;
+  border-bottom-width: .35em;
+  width: 10%;
+
+}
+
+img {
+  border-radius: 85%;
+}
